@@ -1,0 +1,27 @@
+.searchForm {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    max-width: 200px;
+}
+
+.dashboard__comp {
+    display: flex;
+    flex-direction: column;
+}
+
+.questions__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.list__item {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px;
+}
+
+.profile__image {
+    width: 50px;
+    height: 50px;   
+}

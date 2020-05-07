@@ -1,0 +1,15 @@
+.input__field {
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+}
+
+.fieldName {
+    margin: 10px 10px;
+}
+
+.inputbox {
+    margin: 10px 0;
+    min-width: 250px;
+}
